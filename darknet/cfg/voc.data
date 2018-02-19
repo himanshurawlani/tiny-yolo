@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/ubuntu/Desktop/Anaconda_old/yolo_practice/train_yolo/xml_parsing/train.txt
+valid  = /home/ubuntu/Desktop/Anaconda_old/yolo_practice/train_yolo/xml_parsing/test.txt
+names = data/test.names
+backup = backup/
+
