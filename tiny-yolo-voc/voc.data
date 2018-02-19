@@ -1,0 +1,6 @@
+classes= 1
+train  = /content/tiny-yolo-voc/train.txt
+valid  = /content/tiny-yolo-voc/test.txt
+names = data/test.names
+backup = backup/
+
