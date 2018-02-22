@@ -38,9 +38,9 @@ for i in all_image_ids:
     if i in annotated_image_ids:
         count+=1
         copyfile(annotations_dir+i+'.xml',new_annotations_dir+i+'.xml')
-        copyfile(image_dir+i+'.JPEG', new_image_dir+i+'.JPEG')
+        copyfile(image_dir+i+'.jpg', new_image_dir+i+'.jpg')
     else:
-        os.remove(image_dir + i + '.JPEG')
+        os.remove(image_dir + i + '.jpg')
 
 print(count,"annotated image files extracted.", sep=' ')
 

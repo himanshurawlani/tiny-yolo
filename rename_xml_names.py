@@ -16,6 +16,8 @@ for file in os.listdir(annotations_dir):
     in_file = open(file)
     tree = ET.parse(in_file)
     root = tree.getroot()
+    filename = root.find('filename')
+    filename.text = filename.text + '.jpg'
     for obj in root.iter('object'):
         name_tag = obj.find('name')
         name_tag.text = obj_name
