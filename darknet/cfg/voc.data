@@ -1,6 +1,0 @@
-classes= 1
-train  = /home/seefood/Desktop/yolo_practice/tiny-yolo-voc/train.txt
-valid  = /home/seefood/Desktop/yolo_practice/tiny-yolo-voc/test.txt
-names = data/test.names
-backup = backup/
-
