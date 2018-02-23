@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n02512938</folder>
+	<filename>n02512938_12073.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>140</ymin>
+			<xmax>236</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

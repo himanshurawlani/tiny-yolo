@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07714571</folder>
+	<filename>n07714571_5130.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>32</ymin>
+			<xmax>347</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

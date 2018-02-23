@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07840804</folder>
+	<filename>n07840804_25827.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>77</ymin>
+			<xmax>350</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

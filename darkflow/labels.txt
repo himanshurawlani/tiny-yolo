@@ -1,1 +1,6 @@
 banana
+cabbage
+cauliflower
+cucumber
+egg
+fish

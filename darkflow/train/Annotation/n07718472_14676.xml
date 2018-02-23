@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07718472</folder>
+	<filename>n07718472_14676.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>121</ymin>
+			<xmax>180</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

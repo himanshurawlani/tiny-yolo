@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07715103</folder>
+	<filename>n07715103_185.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cauliflower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>25</ymin>
+			<xmax>935</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+</annotation>
