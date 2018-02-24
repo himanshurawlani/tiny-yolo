@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07714990</folder>
+	<filename>n07714990_3359.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>broccoli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>68</ymin>
+			<xmax>305</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

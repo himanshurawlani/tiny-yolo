@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07735803</folder>
+	<filename>n07735803_6645.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turnip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>103</ymin>
+			<xmax>273</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

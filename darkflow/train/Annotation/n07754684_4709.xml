@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07754684</folder>
+	<filename>n07754684_4709.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>730</width>
+		<height>547</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jackfruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>50</ymin>
+			<xmax>728</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

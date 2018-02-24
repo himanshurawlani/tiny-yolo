@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07720875</folder>
+	<filename>n07720875_6829.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>377</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capsicum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>47</ymin>
+			<xmax>339</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

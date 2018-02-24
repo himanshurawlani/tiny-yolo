@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n12172364</folder>
+	<filename>n12172364_6530.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>okra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>240</ymin>
+			<xmax>498</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

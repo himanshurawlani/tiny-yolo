@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07768694</folder>
+	<filename>n07768694_2882.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pomogranate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>25</ymin>
+			<xmax>382</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

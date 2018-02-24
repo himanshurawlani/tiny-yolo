@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07723177</folder>
+	<filename>n07723177_9928.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>0</ymin>
+			<xmax>449</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

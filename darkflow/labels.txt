@@ -4,3 +4,13 @@ cauliflower
 cucumber
 egg
 fish
+apple
+capsicum
+okra
+onion
+pomogranate
+turnip
+broccoli
+spinach
+corn
+jackfruit

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n12144580</folder>
+	<filename>n12144580_4069.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>322</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>185</ymin>
+			<xmax>277</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>
