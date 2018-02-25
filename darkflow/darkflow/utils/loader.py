@@ -72,7 +72,7 @@ class weights_loader(loader):
             new.finalize(walker.transpose)
 
         if walker.path is not None:
-            assert walker.offset == walker.size, \
+            assert (walker.offset + 4) == walker.size, \
             'expect {} bytes, found {}'.format(
                 walker.offset, walker.size)
             print('Successfully identified {} bytes'.format(
@@ -118,7 +118,7 @@ class weights_walker(object):
                 shape = (), mode = 'r', offset = 0,
                 dtype = '({})i4,'.format(4))
             self.transpose = major > 1000 or minor > 1000
-            self.offset = 20
+            self.offset = 16
 
     def walk(self, size):
         if self.eof: return None
@@ -132,7 +132,7 @@ class weights_walker(object):
             dtype='({})float32,'.format(size)
         )
 
-        self.offset = end_point + 4
+        self.offset = end_point
         if end_point == self.size: 
             self.eof = True
         return float32_1D_array
