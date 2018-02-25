@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07753275</folder>
+	<filename>n07753275_8730.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>43</ymin>
+			<xmax>232</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>
